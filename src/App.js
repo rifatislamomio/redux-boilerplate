@@ -14,12 +14,10 @@ function App() {
         {/* <CakeContainer />
         <HooksCakeContainer />
         <HooksIcecreamContainer /> */}
-        {/* <UsersContainer/> */}
-        <HooksUsersContainer />
-
+        <UsersContainer />
+        {/* <HooksUsersContainer /> */}
       </div>
     </Provider>
   );
 }
-
 export default App;
